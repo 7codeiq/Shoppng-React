@@ -1,0 +1,15 @@
+.products{
+    background:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url('../../assist/images/walpaperprod.jpg') no-repeat center;
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+}
+.products h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 9rem;
+}
+.products p{
+    text-align: center;
+    margin-top: 2rem;
+}
