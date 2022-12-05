@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shoppng-React/static/css/main.cd14e100.css",
-    "main.js": "/Shoppng-React/static/js/main.85ae1534.js",
+    "main.js": "/Shoppng-React/static/js/main.3acbce23.js",
     "static/js/787.23170c61.chunk.js": "/Shoppng-React/static/js/787.23170c61.chunk.js",
     "static/media/Hero.png": "/Shoppng-React/static/media/Hero.3dacefb2917739b3e827.png",
     "static/media/bg.jpg": "/Shoppng-React/static/media/bg.a391d730e30b999972e8.jpg",
@@ -24,11 +24,11 @@
     "static/media/CANON INK 0665C001 GI-490 M MAGENTA ( BOTTLE ).jpg": "/Shoppng-React/static/media/CANON INK 0665C001 GI-490 M MAGENTA ( BOTTLE ).c784d8e7ace0e648c0c5.jpg",
     "index.html": "/Shoppng-React/index.html",
     "main.cd14e100.css.map": "/Shoppng-React/static/css/main.cd14e100.css.map",
-    "main.85ae1534.js.map": "/Shoppng-React/static/js/main.85ae1534.js.map",
+    "main.3acbce23.js.map": "/Shoppng-React/static/js/main.3acbce23.js.map",
     "787.23170c61.chunk.js.map": "/Shoppng-React/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd14e100.css",
-    "static/js/main.85ae1534.js"
+    "static/js/main.3acbce23.js"
   ]
 }
